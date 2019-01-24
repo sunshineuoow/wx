@@ -1,2 +1,2 @@
 # wx
-a demo for wx
+微信公众号demo

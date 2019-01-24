@@ -1,0 +1,11 @@
+node_modules
+git
+
+.vscode
+.idea
+.DS_Store
+.coverage
+.cache
+.eslintcache
+.env.example
+*/.DS_Store
